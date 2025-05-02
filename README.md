@@ -21,6 +21,4 @@ Run notebooks in notebooks/ to explore the data.
 
 Status
 Work in progress. Currently setting up data and environment.
-License
-MIT License
 
