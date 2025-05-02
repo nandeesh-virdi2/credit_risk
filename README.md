@@ -15,7 +15,7 @@ src/: Python scripts for models and web app.
 
 Setup
 
-Clone the repository: git clone https://github.com/YourUsername/credit-risk-assessment.git
+Clone the repository: git clone https://github.com/nandeesh-virdi2/credit_risk.git
 Install dependencies: conda env create -f environment.yml (coming soon).
 Run notebooks in notebooks/ to explore the data.
 
